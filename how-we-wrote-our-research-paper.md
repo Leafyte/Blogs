@@ -2,6 +2,8 @@
 
 A few months ago, my teammates and I at VVCE Mysuru had no research experience beyond reading papers and building side projects. Now we have a paper on deep reinforcement learning for game NPCs. This post is the honest version of how we did it: no magic, just a process you can copy.
 
+[Research paper link](https://ieeexplore.ieee.org/document/11497042)
+
 ## Step 1: Start with a problem that annoys you
 
 We didn't start with "let's write a paper." We started with a question: *why are NPCs in games so predictable?*
@@ -131,4 +133,4 @@ Being honest is part of doing research, so here's what I'd tighten up:
 
 Research isn't about being a genius. It's about asking a clear question, running a clean experiment, and being honest about what you found. If a group of 4th-semester CSE students can do it, so can you.
 
-*Built by Team DebugLeaf at VVCE, Mysuru. Questions? Reach out on LinkedIn or GitHub (leafyte).*
+*Built by Karthik M at VVCE, Mysuru. Questions? Reach out on LinkedIn or GitHub (leafyte).*
